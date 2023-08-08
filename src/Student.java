@@ -6,7 +6,7 @@ public class Student {
     private int age;
     private char gender;
     private String major;
-    //带参数构造方法
+    //不带参数构造方法
     public Student(){
         this.id=id;
         this.name=name;
